@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.8
+      - image: nexus-docker-nexus.apps.cluster-852ff.852ff.sandbox200.opentlc.com/rhtap/dotnet-basic-yeubqkyv:21532f9538206083e4421601279fed538128ce7e@sha256:d586f619426bbd9962fbae1ff3a2823ec3b605f61fdc3c88e1a69b27cdc8fad8
         name: container-image  
